@@ -19,6 +19,7 @@
     <modules>
         <module>patient-service</module>
         <module>clinician-service</module>
+        <module>appointment-service</module>
     </modules>
 
     <properties>

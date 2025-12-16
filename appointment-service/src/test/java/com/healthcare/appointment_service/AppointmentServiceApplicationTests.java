@@ -1,13 +1,13 @@
-package com.healthcare.patient_service;
+package com.healthcare.appointment_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PatientServiceApplicationTests {
+class AppointmentServiceApplicationTests {
 
 	@Test
-	void test() {
+	void contextLoads() {
 	}
 
 }
